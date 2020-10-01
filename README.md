@@ -29,7 +29,7 @@
 
 ------------------------------以下为英文原文-------------------------------------
 
-* Day 1: Introduction to Python and scientific programming. Basics in Python: data type, contro structures, fu nctions,  l/O file.
+* Day 1: Introduction to Python and scientific programming. Basics of Python: data type, contro structures, fu nctions,  l/O file.
 * Day 2: Computation with Numpy, Scipy, Matplotlib and other modules. Solving some maths problems with  Python.
 * Day 3: Time series: statistics and real data analysis with Pandas. Stochastics and Monte Carlo.
 ```python
